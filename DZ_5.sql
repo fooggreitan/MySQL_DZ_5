@@ -5,7 +5,7 @@ USE lesson_5;
 
 CREATE TABLE cars
 (
-	id INT NOT NULL PRIMARY KEY,
+    id INT NOT NULL PRIMARY KEY,
     name VARCHAR(45),
     cost INT
 );
