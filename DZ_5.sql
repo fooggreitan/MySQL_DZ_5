@@ -3,8 +3,7 @@ USE lesson_5;
 
 /*  0. Cоздание таблицы */  
 
-CREATE TABLE cars
-(
+CREATE TABLE cars (
     id INT NOT NULL PRIMARY KEY,
     name VARCHAR(45),
     cost INT
